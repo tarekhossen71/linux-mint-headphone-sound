@@ -1,0 +1,2 @@
+sudo apt-get install alsa-base alsa-tools alsa-tools-gui alsa-utils
+search-> hda
