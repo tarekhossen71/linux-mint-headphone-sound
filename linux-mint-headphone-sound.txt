@@ -6,7 +6,7 @@ For root access always
 nano /etc/sudoers
 
 than write 
-Defaults:akash !authenticate
+Defaults:akash !authenticate /sudo su
 
 
 
@@ -18,3 +18,7 @@ sudo service mysql stop
 
 
 sudo apt-get install php-dom
+
+for color full terminal
+suod nemo
+and copy .bashrc file root folder
